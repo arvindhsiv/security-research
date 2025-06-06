@@ -1,4 +1,4 @@
-# Phishing Email Analyzer (Secure Mode)
+# Phishing Email Analyzer
 
 **Version**: 1.0.0  
 **Last Updated**: June 2025  
