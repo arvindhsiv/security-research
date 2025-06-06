@@ -2,7 +2,7 @@
 
 **Version**: 1.0.0  
 **Last Updated**: June 2025  
-**Author**: [Arvindhsiv]
+**Author**: arvindhsiv
 
 ---
 
