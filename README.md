@@ -5,7 +5,7 @@ A curated set of hands-on research projects covering exploit development, threat
 ## 📁 Project Index
 
 -- **[Phishimg Email Analyzer](./Enterprise-Grade Phishing Email Analyzer/)** – Enterprise-Grade Phishing Email Analyzer.
-- **[CVE-Analysis-Series](./https://github.com/arvindhsiv/security-research/tree/main/Phishing%20Email%20Analyser/)** – Reverse engineering and root cause analysis of real-world vulnerabilities.
+- **[CVE-Analysis-Series](./Phishing%20Email%20Analyser/)** – Reverse engineering and root cause analysis of real-world vulnerabilities.
 - **[yara-sigma-detection-rules](./yara-sigma-detection-rules/)** – Custom detection rules for malware, IOCs, and behavior anomalies.
 - **[ioc-collector-lite](./ioc-collector-lite/)** – Python tool to collect and normalize open-source threat intel feeds.
 - **[exploit-detection-lab](./exploit-detection-lab/)** – Simulated attack lab with detection and mitigation mapping.
